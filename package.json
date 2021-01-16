@@ -7,7 +7,14 @@
   	"name": "Josh Davies",
   	"url": "https://github.com/joshdavies14"
   },
-  "license": "ISC",
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshdavies14/vsc-fp-theme.git"
+},
+"bugs": {
+    "url": "https://github.com/joshdavies14/vsc-fp-theme/issues"
+},
   "publisher": "joshdavies14",
     "engines": {
         "vscode": "^1.0.0"

@@ -18,11 +18,20 @@ This is a collection of 3 very hastily created themes for VS Code based on the c
 
 ## Install instructions
 
+### Option 1 (recommended): Install via Visual Studio Marketplace
+
+Head over to Visual Studio Code Markeptlace (or the Extenstions tab in Visual Studio Code), search for "Functional Programming" and install.
+
+### Option 2: Install from source
+
+While this method works, I recommend using Option 1 for ease of use!
+
 1. Clone this repository into `%USERPROFILE%\.vscode\extensions` on Windows or `~/.vscode/extensions` on MacOS or Linux.
 2. Reload your VS Code window (`Crtl+Shift+P` to open the Command Pallette, type in `Reload Window` then press Enter.)
-3. Click on Settings in the bottom-right corner, then "Colour Theme". You should see "Functional Programming" as an option under "Dark Themes", along with the other 2 options "Functional Programming (Lighter)" and "Functional Programming (Darker)".
 
-I'm currently (16/01) investigating uploading this to VSCode Marketplace, but we will see...
+### Apply the theme
+
+Click on Settings in the bottom-right corner, then "Colour Theme". You should see "Functional Programming" as an option under "Dark Themes", along with the other 2 options "Functional Programming (Lighter)" and "Functional Programming (Darker)".
 
 ## Acknowledgements
 

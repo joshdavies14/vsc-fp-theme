@@ -1,7 +1,7 @@
 {
 	"name": "functional-programming",
 	"displayName": "Functional Programming",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Functional Programming theme for VS Code",
 	"icon": "logo.png",
 	"author": {

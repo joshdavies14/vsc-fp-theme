@@ -2,6 +2,8 @@
 
 This is a very hastily created theme for VS Code based on the colour scheme of the CS141 Functional Programming module.
 
+![Theme Screenshot](screenshot-default.png)
+
 ## Install instructions
 
 1. Clone this repository into `%USERPROFILE%\.vscode\extensions` on Windows or `~/.vscode/extensions` on MacOS or Linux.

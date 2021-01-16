@@ -6,15 +6,15 @@ This is a collection of 3 very hastily created themes for VS Code based on the c
 
 ### Functional Programming (Default)
 
-![Default Theme Screenshot](screenshot-default.png)
+![Default Theme Screenshot](https://github.com/joshdavies14/vsc-fp-theme/raw/main/screenshot-default.png)
 
 ### Functional Programming (Lighter)
 
-![Lighter Theme Screenshot](screenshot-lighter.png)
+![Lighter Theme Screenshot](https://github.com/joshdavies14/vsc-fp-theme/raw/main/screenshot-lighter.png)
 
 ### Functional Programming (Darker)
 
-![Darker Theme Screenshot](screenshot-darker.png)
+![Darker Theme Screenshot](https://github.com/joshdavies14/vsc-fp-theme/raw/main/screenshot-darker.png)
 
 ## Install instructions
 

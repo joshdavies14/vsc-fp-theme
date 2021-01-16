@@ -23,3 +23,7 @@ This is a collection of 3 very hastily created themes for VS Code based on the c
 3. Click on Settings in the bottom-right corner, then "Colour Theme". You should see "Functional Programming" as an option under "Dark Themes", along with the other 2 options "Functional Programming (Lighter)" and "Functional Programming (Darker)".
 
 I'm currently (16/01) investigating uploading this to VSCode Marketplace, but we will see...
+
+## Acknowledgements
+
+Logo taken from screenshot of CS141 Functional Programming material, credit to Michael Gale (https://github.com/mbg)

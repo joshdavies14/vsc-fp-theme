@@ -1,0 +1,28 @@
+{
+  "name": "functional-programming",
+  "displayName": "Functional Programming",
+  "version": "1.0.0",
+  "description": "Functional Programming theme for VS Code",
+  "author": {
+  	"name": "Josh Davies",
+  	"url": "https://github.com/joshdavies14"
+  },
+  "license": "ISC",
+  "publisher": "joshdavies14",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+            	"id": "functional-programming",
+                "label": "Functional Programming",
+                "uiTheme": "vs-dark",
+                "path": "./themes/functional-programming.json"
+            }
+        ]
+    }
+}

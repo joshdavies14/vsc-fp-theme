@@ -1,9 +1,9 @@
 {
 	"name": "functional-programming",
 	"displayName": "Functional Programming",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Functional Programming theme for VS Code",
-    "icon" : "./logo.png",
+	"icon": "./logo.png",
 	"author": {
 		"name": "Josh Davies",
 		"url": "https://github.com/joshdavies14"

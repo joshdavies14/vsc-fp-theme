@@ -29,6 +29,18 @@
                 "label": "Functional Programming",
                 "uiTheme": "vs-dark",
                 "path": "./themes/functional-programming.json"
+            },
+            {
+            	"id": "functional-programming-darker",
+                "label": "Functional Programming (Darker)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/functional-programming-darker.json"
+            },
+            {
+            	"id": "functional-programming-lighter",
+                "label": "Functional Programming (Lighter)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/functional-programming-lighter.json"
             }
         ]
     }

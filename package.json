@@ -1,47 +1,53 @@
 {
-  "name": "functional-programming",
-  "displayName": "Functional Programming",
-  "version": "1.0.0",
-  "description": "Functional Programming theme for VS Code",
-  "author": {
-  	"name": "Josh Davies",
-  	"url": "https://github.com/joshdavies14"
-  },
-  "license": "CC0-1.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/joshdavies14/vsc-fp-theme"
-},
-"bugs": {
-    "url": "https://github.com/joshdavies14/vsc-fp-theme/issues"
-},
-  "publisher": "joshdavies14",
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-            	"id": "functional-programming",
-                "label": "Functional Programming",
-                "uiTheme": "vs-dark",
-                "path": "./themes/functional-programming.json"
-            },
-            {
-            	"id": "functional-programming-darker",
-                "label": "Functional Programming (Darker)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/functional-programming-darker.json"
-            },
-            {
-            	"id": "functional-programming-lighter",
-                "label": "Functional Programming (Lighter)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/functional-programming-lighter.json"
-            }
-        ]
-    }
+	"name": "functional-programming",
+	"displayName": "Functional Programming",
+	"version": "1.0.0",
+	"description": "Functional Programming theme for VS Code",
+    "icon" : "./logo.png",
+	"author": {
+		"name": "Josh Davies",
+		"url": "https://github.com/joshdavies14"
+	},
+	"license": "CC0-1.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/joshdavies14/vsc-fp-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/joshdavies14/vsc-fp-theme/issues"
+	},
+	"publisher": "JoshDavies",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"id": "functional-programming",
+				"label": "Functional Programming",
+				"uiTheme": "vs-dark",
+				"path": "./themes/functional-programming.json"
+			},
+			{
+				"id": "functional-programming-darker",
+				"label": "Functional Programming (Darker)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/functional-programming-darker.json"
+			},
+			{
+				"id": "functional-programming-lighter",
+				"label": "Functional Programming (Lighter)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/functional-programming-lighter.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9b40a89d-4026-46da-9331-83ab3518f5ce",
+		"publisherDisplayName": "Josh Davies",
+		"publisherId": "a703578f-a1a1-4eb7-8c04-3b3a6ab7aa90"
+	}
 }

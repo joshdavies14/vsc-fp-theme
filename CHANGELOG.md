@@ -1,3 +1,6 @@
+# 1.1.0
+Update darker theme with better colour choices
+
 # 1.0.4
 Update install instructions, introduce change log
 

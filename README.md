@@ -33,6 +33,10 @@ While this method works, I recommend using Option 1 for ease of use!
 
 Click on Settings in the bottom-right corner, then "Colour Theme". You should see "Functional Programming" as an option under "Dark Themes", along with the other 2 options "Functional Programming (Lighter)" and "Functional Programming (Darker)".
 
+## Improvements?
+
+Improvements and changes are more than welcome via a pull request. If you do create a PR, please do not change the version number in `package.json` as this is done during the extension build process. Thanks!
+
 ## Acknowledgements
 
 Logo taken from screenshot of CS141 Functional Programming material, credit to Michael Gale (https://github.com/mbg)

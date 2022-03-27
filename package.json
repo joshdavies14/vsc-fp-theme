@@ -1,8 +1,8 @@
 {
-	"name": "functional-programming",
-	"displayName": "Functional Programming",
+	"name": "functional-purple",
+	"displayName": "Functional Purple",
 	"version": "1.1.0",
-	"description": "Functional Programming theme for VS Code",
+	"description": "Functional Purple theme for VS Code",
 	"icon": "logo.png",
 	"author": {
 		"name": "Josh Davies",
@@ -26,20 +26,20 @@
 	"contributes": {
 		"themes": [
 			{
-				"id": "functional-programming",
-				"label": "Functional Programming",
+				"id": "functional-purple",
+				"label": "Functional Purple",
 				"uiTheme": "vs-dark",
 				"path": "./themes/functional-programming.json"
 			},
 			{
-				"id": "functional-programming-darker",
-				"label": "Functional Programming (Darker)",
+				"id": "functional-purple-darker",
+				"label": "Functional Purple (Darker)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/functional-programming-darker.json"
 			},
 			{
-				"id": "functional-programming-lighter",
-				"label": "Functional Programming (Lighter)",
+				"id": "functional-purple-lighter",
+				"label": "Functional Purple (Lighter)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/functional-programming-lighter.json"
 			}

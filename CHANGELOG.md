@@ -1,3 +1,8 @@
+# 1.2.0
+- Update licence to MIT
+- Update README to add contribution notes
+- Rename plugin to "Functional Purple!
+
 # 1.1.0
 - Update darker theme with better colour choices
 
